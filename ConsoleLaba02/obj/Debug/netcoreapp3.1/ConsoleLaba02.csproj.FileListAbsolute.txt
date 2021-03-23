@@ -1,0 +1,13 @@
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\bin\Debug\netcoreapp3.1\ConsoleLaba02.exe
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\bin\Debug\netcoreapp3.1\ConsoleLaba02.deps.json
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\bin\Debug\netcoreapp3.1\ConsoleLaba02.runtimeconfig.json
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\bin\Debug\netcoreapp3.1\ConsoleLaba02.runtimeconfig.dev.json
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\bin\Debug\netcoreapp3.1\ConsoleLaba02.dll
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\bin\Debug\netcoreapp3.1\ConsoleLaba02.pdb
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\obj\Debug\netcoreapp3.1\ConsoleLaba02.csprojAssemblyReference.cache
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\obj\Debug\netcoreapp3.1\ConsoleLaba02.AssemblyInfoInputs.cache
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\obj\Debug\netcoreapp3.1\ConsoleLaba02.AssemblyInfo.cs
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\obj\Debug\netcoreapp3.1\ConsoleLaba02.csproj.CoreCompileInputs.cache
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\obj\Debug\netcoreapp3.1\ConsoleLaba02.dll
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\obj\Debug\netcoreapp3.1\ConsoleLaba02.pdb
+C:\Users\Merkulov\source\repos\ConsoleLaba02\ConsoleLaba02\obj\Debug\netcoreapp3.1\ConsoleLaba02.genruntimeconfig.cache
